@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Se firma pacto con la ‘crema y nata’ de la panela	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/se-firma-pacto-con-la-crema-y-nata-de-la-panela/feed/" rel="self" type="application/rss+xml" />
+	<link>/se-firma-pacto-con-la-crema-y-nata-de-la-panela/</link>
 	<description></description>
 	<lastBuildDate>Wed, 21 Sep 2022 20:15:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

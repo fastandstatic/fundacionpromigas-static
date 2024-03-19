@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Once empresas elegidas en la segunda edición de Caribe Exponencial	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/once-empresas-elegidas-en-la-segunda-edicion-de-caribe-exponencial/feed/" rel="self" type="application/rss+xml" />
+	<link>/once-empresas-elegidas-en-la-segunda-edicion-de-caribe-exponencial/</link>
 	<description></description>
 	<lastBuildDate>Thu, 16 Jun 2022 20:16:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

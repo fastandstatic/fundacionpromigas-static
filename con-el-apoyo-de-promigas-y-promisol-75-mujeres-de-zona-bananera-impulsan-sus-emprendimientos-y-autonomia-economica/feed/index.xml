@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Con el apoyo de Promigas y Promisol, 75 mujeres de zona bananera impulsan sus emprendimientos y autonomía económica	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/con-el-apoyo-de-promigas-y-promisol-75-mujeres-de-zona-bananera-impulsan-sus-emprendimientos-y-autonomia-economica/feed/" rel="self" type="application/rss+xml" />
+	<link>/con-el-apoyo-de-promigas-y-promisol-75-mujeres-de-zona-bananera-impulsan-sus-emprendimientos-y-autonomia-economica/</link>
 	<description></description>
 	<lastBuildDate>Mon, 16 Jan 2023 13:47:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

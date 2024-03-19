@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Veintisiete becas a emprendedores entregaron Fundación Carnaval y Promigas	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/veintisiete-becas-a-emprendedores-entregaron-fundacion-carnaval-y-promigas/feed/" rel="self" type="application/rss+xml" />
+	<link>/veintisiete-becas-a-emprendedores-entregaron-fundacion-carnaval-y-promigas/</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 Aug 2022 20:00:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

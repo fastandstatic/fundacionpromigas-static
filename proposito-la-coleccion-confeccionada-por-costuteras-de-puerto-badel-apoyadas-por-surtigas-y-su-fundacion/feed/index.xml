@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: ‘Propósito’, la colección confeccionada por costuteras de Puerto Badel apoyadas por Surtigas y su Fundación	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/proposito-la-coleccion-confeccionada-por-costuteras-de-puerto-badel-apoyadas-por-surtigas-y-su-fundacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/proposito-la-coleccion-confeccionada-por-costuteras-de-puerto-badel-apoyadas-por-surtigas-y-su-fundacion/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Dec 2022 13:40:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

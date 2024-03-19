@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Abierta convocatoria del proyecto Santander O-Key para impulsar el empleo juvenil a través del bilingüismo	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/abierta-convocatoria-del-proyecto-santander-o-key-para-impulsar-el-empleo-juvenil-a-traves-del-bilinguismo/feed/" rel="self" type="application/rss+xml" />
+	<link>/abierta-convocatoria-del-proyecto-santander-o-key-para-impulsar-el-empleo-juvenil-a-traves-del-bilinguismo/</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 Aug 2022 20:00:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

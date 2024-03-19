@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Abierta convocatoria que otorgará becas completas a futuros técnicos electricistas y operadores de máquinas en buenaventura	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/abierta-convocatoria-que-otorgara-becas-completas-a-futuros-tecnicos-electricistas-y-operadores-de-maquinas-en-buenaventura/feed/" rel="self" type="application/rss+xml" />
+	<link>/abierta-convocatoria-que-otorgara-becas-completas-a-futuros-tecnicos-electricistas-y-operadores-de-maquinas-en-buenaventura/</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Feb 2023 20:02:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

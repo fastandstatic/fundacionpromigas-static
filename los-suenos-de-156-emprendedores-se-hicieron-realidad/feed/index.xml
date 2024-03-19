@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Los sueños de 156 emprendedores se hicieron realidad	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/los-suenos-de-156-emprendedores-se-hicieron-realidad/feed/" rel="self" type="application/rss+xml" />
+	<link>/los-suenos-de-156-emprendedores-se-hicieron-realidad/</link>
 	<description></description>
 	<lastBuildDate>Mon, 16 Jan 2023 13:59:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

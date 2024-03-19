@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Fundación Promigas, reconocida a nivel LATAM por fomentar la empleabilidad de los jóvenes	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/fundacion-promigas-reconocida-a-nivel-latam-por-fomentar-la-empleabilidad-de-los-jovenes/feed/" rel="self" type="application/rss+xml" />
+	<link>/fundacion-promigas-reconocida-a-nivel-latam-por-fomentar-la-empleabilidad-de-los-jovenes/</link>
 	<description></description>
 	<lastBuildDate>Mon, 24 Apr 2023 14:45:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>

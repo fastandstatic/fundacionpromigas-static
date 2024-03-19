@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Fundación Promigas es seleccionada como caso de éxito del Informe Nacional de Empleo Inclusivo 2022 con su programa más Empleo Juvenil	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/fundacion-promigas-es-seleccionada-como-caso-de-exito-del-informe-nacional-de-empleo-inclusivo-2022-con-su-programa-mas-empleo-juvenil/feed/" rel="self" type="application/rss+xml" />
+	<link>/fundacion-promigas-es-seleccionada-como-caso-de-exito-del-informe-nacional-de-empleo-inclusivo-2022-con-su-programa-mas-empleo-juvenil/</link>
 	<description></description>
 	<lastBuildDate>Fri, 11 Nov 2022 20:14:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
