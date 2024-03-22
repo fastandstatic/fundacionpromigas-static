@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Surtigas y su Fundación entregan activos para incrementar la productividad de comunidades en Puerto Badel y Lomas de Matunilla	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/surtigas-y-su-fundacion-entregan-activos-para-incrementar-la-productividad-de-comunidades-en-puerto-badel-y-lomas-de-matunilla/feed/" rel="self" type="application/rss+xml" />
+	<link>/surtigas-y-su-fundacion-entregan-activos-para-incrementar-la-productividad-de-comunidades-en-puerto-badel-y-lomas-de-matunilla/</link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Jun 2022 16:02:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
