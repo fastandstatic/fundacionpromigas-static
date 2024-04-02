@@ -468,28 +468,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cocina-para-todos-santander/</loc>
-		<lastmod>2023-11-15T13:45:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/mask-group-92.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/FP.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Carama-de-comerciio-Bug.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/Promii-Oriente.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/LOGO-UNAB-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/10/WV.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/estados-financieros/</loc>
 		<lastmod>2023-12-13T21:38:42+00:00</lastmod>
 	</url>
@@ -841,6 +819,47 @@
 		<lastmod>2024-03-13T13:52:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/05/Artboard-%E2%80%93-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocina-para-todos-santander/</loc>
+		<lastmod>2024-03-26T19:51:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/mask-group-92.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/FP.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Carama-de-comerciio-Bug.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/Promii-Oriente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/11/LOGO-UNAB-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/10/WV.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/valleokey/</loc>
+		<lastmod>2024-04-02T02:17:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/banner-valle.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/logos-o-key-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/logos-o-key-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/1logos-o-key-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/logos-o-key-04.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
