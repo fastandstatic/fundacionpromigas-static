@@ -782,28 +782,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/quienes-somos/</loc>
-		<lastmod>2024-02-07T21:07:33+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/politicas-de-privacidad/</loc>
 		<lastmod>2024-03-13T13:39:28+00:00</lastmod>
 		<image:image>
@@ -895,6 +873,28 @@
 		<lastmod>2024-04-22T15:01:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/05/Artboard-%E2%80%93-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/quienes-somos/</loc>
+		<lastmod>2024-04-29T15:18:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
