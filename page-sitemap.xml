@@ -407,10 +407,6 @@
 		<lastmod>2023-09-11T21:55:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/old-soytec40/</loc>
-		<lastmod>2023-09-11T21:55:10+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/mas-emprendimiento/</loc>
 		<lastmod>2023-11-02T14:20:59+00:00</lastmod>
 	</url>
@@ -895,6 +891,26 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/old-soytec40/</loc>
+		<lastmod>2024-05-02T13:17:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/soyteceg40/</loc>
+		<lastmod>2024-05-02T19:44:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/mask-group-92-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/LogoCEOFP-21.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
