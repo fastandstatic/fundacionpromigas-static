@@ -379,10 +379,6 @@
 		<lastmod>2023-01-26T15:15:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/manosalcampo/</loc>
-		<lastmod>2023-02-14T13:18:49+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/alas-comunidades-cienaga/</loc>
 		<lastmod>2023-03-07T19:27:49+00:00</lastmod>
 	</url>
@@ -899,7 +895,7 @@
 	</url>
 	<url>
 		<loc>/soyteceg40/</loc>
-		<lastmod>2024-05-06T21:57:34+00:00</lastmod>
+		<lastmod>2024-05-07T17:04:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/mask-group-92-1.webp</image:loc>
 		</image:image>
@@ -910,7 +906,17 @@
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/LogoCEOFP-21.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/manosalcampo/</loc>
+		<lastmod>2024-05-07T19:34:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/portada-web_Mesa-de-trabajo-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
