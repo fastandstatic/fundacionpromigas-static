@@ -894,10 +894,20 @@
 		<lastmod>2024-05-02T13:17:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/soyteceg40/</loc>
-		<lastmod>2024-05-07T17:04:10+00:00</lastmod>
+		<loc>/manosalcampo/</loc>
+		<lastmod>2024-05-07T19:34:27+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/mask-group-92-1.webp</image:loc>
+			<image:loc>/wp-content/uploads/2022/05/portada-web_Mesa-de-trabajo-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/soyteceg40/</loc>
+		<lastmod>2024-05-09T17:15:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/2-1-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
@@ -907,16 +917,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/manosalcampo/</loc>
-		<lastmod>2024-05-07T19:34:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/portada-web_Mesa-de-trabajo-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
