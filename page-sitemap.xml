@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-05-20T14:54:49+00:00</lastmod>
+		<lastmod>2024-05-21T16:30:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -894,10 +894,10 @@
 		<lastmod>2024-05-02T13:17:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/manosalcampo/</loc>
-		<lastmod>2024-05-09T17:23:28+00:00</lastmod>
+		<loc>/manos-al-campo/</loc>
+		<lastmod>2024-05-21T16:31:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/portada-web_Mesa-de-trabajo-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/Banner-Web-1-4-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
@@ -905,9 +905,9 @@
 	</url>
 	<url>
 		<loc>/soyteceg40/</loc>
-		<lastmod>2024-05-20T14:53:59+00:00</lastmod>
+		<lastmod>2024-05-21T16:40:09+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/Portadas_1-1-scaled.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/05/a-Divertido-Escuela-Banner-01.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
