@@ -894,16 +894,6 @@
 		<lastmod>2024-05-02T13:17:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/manos-al-campo/</loc>
-		<lastmod>2024-05-21T16:31:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/Banner-Web-1-4-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/soyteceg40/</loc>
 		<lastmod>2024-05-22T18:07:10+00:00</lastmod>
 		<image:image>
@@ -917,6 +907,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/manos-al-campo/</loc>
+		<lastmod>2024-05-29T17:21:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Banner-Web-1-4-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
