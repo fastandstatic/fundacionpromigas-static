@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 
 <image>
 	<url>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/06/07115625/cropped-favicon-32x32.png</url>
@@ -80,7 +80,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Entrega de equipos de comunicación de alta gama para mejorar las condiciones técnicas y producciones radiofónicas de las emisoras.</li>
 
 
@@ -145,7 +145,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Procesos de formación para el desarrollo de habilidades sociales (relacionadas con la solución de problemas, el pensamiento creativo y capacidades de comunicación para fundamentar sus emprendimientos) y empresariales (desarrollo del modelo de negocio, productos, servicios, propuestas de valor, finanzas, ingresos, costos y gastos), proceso de asesoría.</li>
 
 
@@ -175,7 +175,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Potenciar formas de participación de los jóvenes en los procesos de desarrollo socioeconómico local y en el ecosistema social de emprendimiento e innovación regional.</li>
 
 
