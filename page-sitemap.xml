@@ -864,28 +864,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/quienes-somos/</loc>
-		<lastmod>2024-04-29T15:18:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/old-soytec40/</loc>
 		<lastmod>2024-05-02T13:17:00+00:00</lastmod>
 	</url>
@@ -916,8 +894,58 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/boletin2/</loc>
+		<lastmod>2024-06-18T20:57:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/solicitudes-rte/</loc>
+		<lastmod>2024-07-02T14:57:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/convocatoriatms/</loc>
+		<lastmod>2024-07-08T15:18:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/FA-FAC-Color-1024x226.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rutarosa/</loc>
+		<lastmod>2024-07-12T14:02:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/alascomunidadespuebloviejo/</loc>
+		<lastmod>2024-07-22T20:43:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/informe-de-gestion-2023/</loc>
-		<lastmod>2024-06-14T17:00:26+00:00</lastmod>
+		<lastmod>2024-07-26T13:54:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Group-406-1.svg</image:loc>
 		</image:image>
@@ -1115,53 +1143,25 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/boletin2/</loc>
-		<lastmod>2024-06-18T20:57:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/solicitudes-rte/</loc>
-		<lastmod>2024-07-02T14:57:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/convocatoriatms/</loc>
-		<lastmod>2024-07-08T15:18:27+00:00</lastmod>
+		<loc>/quienes-somos/</loc>
+		<lastmod>2024-07-26T13:58:06+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-02.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-03.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-10.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/FA-FAC-Color-1024x226.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/rutarosa/</loc>
-		<lastmod>2024-07-12T14:02:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/alascomunidadespuebloviejo/</loc>
-		<lastmod>2024-07-22T20:43:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
