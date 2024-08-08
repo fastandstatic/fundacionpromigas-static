@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-08T15:37:20+00:00</lastmod>
+		<lastmod>2024-08-08T20:17:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -1119,28 +1119,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/quienes-somos/</loc>
-		<lastmod>2024-07-26T13:58:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/boletin/</loc>
 		<lastmod>2024-08-02T15:21:46+00:00</lastmod>
 	</url>
@@ -1184,6 +1162,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/logos-o-key-01.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/quienes-somos/</loc>
+		<lastmod>2024-08-08T21:27:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
