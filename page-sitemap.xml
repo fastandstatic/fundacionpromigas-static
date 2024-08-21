@@ -916,10 +916,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rutarosa/</loc>
-		<lastmod>2024-07-12T14:02:01+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/informe-de-gestion-2023/</loc>
 		<lastmod>2024-07-26T13:54:07+00:00</lastmod>
 		<image:image>
@@ -1184,6 +1180,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rutarosa/</loc>
+		<lastmod>2024-08-21T15:47:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-02.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
