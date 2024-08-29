@@ -1221,50 +1221,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/eserviciosctgd/</loc>
-		<lastmod>2024-08-23T22:05:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Diplomado-.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/eserviciosctgt/</loc>
-		<lastmod>2024-08-23T22:06:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Carreta-tecnica.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/cocinafuturocali/</loc>
 		<lastmod>2024-08-27T14:26:10+00:00</lastmod>
 		<image:image>
@@ -1310,6 +1266,50 @@
 		<lastmod>2024-08-29T15:22:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/05/Artboard-%E2%80%93-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eserviciosctgt/</loc>
+		<lastmod>2024-08-29T16:05:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Carreta-tecnica.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eserviciosctgd/</loc>
+		<lastmod>2024-08-29T16:05:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Diplomado-.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
