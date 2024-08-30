@@ -1240,28 +1240,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cptfuturocali/</loc>
-		<lastmod>2024-08-27T20:23:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/LogoGDOFP-19.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Logo-EGO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/maxresdefault.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/ley-de-proteccion-de-datos/</loc>
 		<lastmod>2024-08-29T15:22:18+00:00</lastmod>
 		<image:image>
@@ -1310,6 +1288,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cptfuturocali/</loc>
+		<lastmod>2024-08-29T20:57:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/LogoGDOFP-19.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Logo-EGO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/maxresdefault.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
