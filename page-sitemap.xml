@@ -1272,28 +1272,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/eserviciosctgt/</loc>
-		<lastmod>2024-08-30T15:32:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Carreta-tecnica.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-10.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/cocinafuturocali/</loc>
 		<lastmod>2024-09-02T14:14:15+00:00</lastmod>
 		<image:image>
@@ -1313,6 +1291,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/eserviciosctgt/</loc>
+		<lastmod>2024-09-02T16:54:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Carreta-tecnica.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/images.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Logos-Promigas-empresas-10.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
