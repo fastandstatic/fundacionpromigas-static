@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-04T13:59:21+00:00</lastmod>
+		<lastmod>2024-09-20T22:00:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -1161,22 +1161,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/escuelaserviciosatl/</loc>
-		<lastmod>2024-08-23T19:58:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/ley-de-proteccion-de-datos/</loc>
 		<lastmod>2024-08-29T15:22:18+00:00</lastmod>
 		<image:image>
@@ -1272,28 +1256,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cocinaparatodos/</loc>
-		<lastmod>2024-09-04T16:31:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/03/Mask-Group-90.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1-1024x261.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-04.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/logos-o-key-01.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-03.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/rutarosa/</loc>
 		<lastmod>2024-09-18T16:14:51+00:00</lastmod>
 		<image:image>
@@ -1313,6 +1275,44 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/escuelaserviciosatl/</loc>
+		<lastmod>2024-09-21T16:39:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocinaparatodos/</loc>
+		<lastmod>2024-09-21T16:45:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/03/Mask-Group-90.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1-1024x261.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-04.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/logos-o-key-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
