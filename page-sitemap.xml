@@ -308,10 +308,6 @@
 		<lastmod>2021-10-14T18:52:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/lo-que-hacemos/</loc>
-		<lastmod>2021-10-14T19:10:33+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/contacto/</loc>
 		<lastmod>2021-10-26T20:27:24+00:00</lastmod>
 	</url>
@@ -349,10 +345,6 @@
 	<url>
 		<loc>/mas-empleo-juvenil/</loc>
 		<lastmod>2022-10-04T14:35:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/lo-que-hacemos/</loc>
-		<lastmod>2022-10-05T13:46:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/quienes-somos/</loc>
@@ -1313,6 +1305,77 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/what-we-do/</loc>
+		<lastmod>2024-09-24T16:46:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lo-que-hacemos/</loc>
+		<lastmod>2024-09-24T16:51:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-95@2x-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-11.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-12.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-13.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Caribe-Exponencial-y-Jovenes-Participoiuytrpando-Alternativamente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-14.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/ico-proTalento@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Caribe-Exponencial-y-Jovenes-Participando-Alternativamente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-97@2x-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-10-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-10-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-11-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/saborProgreso__@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-12-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-8-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-9-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-9.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/ico-iluminandoVidas@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>
