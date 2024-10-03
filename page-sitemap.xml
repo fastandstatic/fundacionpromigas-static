@@ -1286,28 +1286,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cocinaparatodos/</loc>
-		<lastmod>2024-09-24T15:47:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/03/Mask-Group-90.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1-1024x261.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-04.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/logos-o-key-01.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-03.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/what-we-do/</loc>
 		<lastmod>2024-09-24T16:46:19+00:00</lastmod>
 	</url>
@@ -1376,6 +1354,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocinaparatodos/</loc>
+		<lastmod>2024-10-03T20:23:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/03/Mask-Group-90.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1-1024x261.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-04.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/logos-o-key-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
