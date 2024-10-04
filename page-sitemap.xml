@@ -1270,22 +1270,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/escuelaserviciosatl/</loc>
-		<lastmod>2024-09-23T22:13:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/what-we-do/</loc>
 		<lastmod>2024-09-24T16:46:19+00:00</lastmod>
 	</url>
@@ -1376,6 +1360,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/escuelaserviciosatl/</loc>
+		<lastmod>2024-10-04T20:35:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende_Mesa-de-trabajo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/LOG_UN_2024_rojo-04-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
