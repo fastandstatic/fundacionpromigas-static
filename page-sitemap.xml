@@ -1248,28 +1248,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rutarosa/</loc>
-		<lastmod>2024-09-18T16:14:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/what-we-do/</loc>
 		<lastmod>2024-09-24T16:46:19+00:00</lastmod>
 	</url>
@@ -1379,6 +1357,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rutarosa/</loc>
+		<lastmod>2024-10-08T19:25:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
