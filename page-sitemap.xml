@@ -355,10 +355,6 @@
 		<lastmod>2022-10-05T14:06:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/proximamente/</loc>
-		<lastmod>2022-10-19T21:01:13+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/coleccionproposito/</loc>
 		<lastmod>2022-12-19T20:31:52+00:00</lastmod>
 	</url>
@@ -393,55 +389,6 @@
 	<url>
 		<loc>/mas-emprendimiento/</loc>
 		<lastmod>2023-11-02T14:20:59+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/impe/</loc>
-		<lastmod>2023-11-08T20:38:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-74.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-517.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-77.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-79.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-80.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Mask-Group-1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/g2494.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-83.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Path-1030.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-84.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Path-1031.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/qrr.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Color2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-518.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/estados-financieros/</loc>
@@ -1401,6 +1348,102 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/impe-2022/</loc>
+		<lastmod>2024-10-22T16:00:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-74.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-517.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-77.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-79.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-80.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Mask-Group-1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/g2494.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-83.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Path-1030.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-84.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Path-1031.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/qrr.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Color2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-518.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/impe/</loc>
+		<lastmod>2024-10-22T21:02:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-4.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-3.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-2.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-2.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-3.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-4.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-74.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/proximamente/</loc>
+		<lastmod>2024-10-22T21:20:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/05/Artboard-%E2%80%93-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
