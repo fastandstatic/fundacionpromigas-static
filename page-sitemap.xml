@@ -1397,8 +1397,18 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/manos-al-campo/</loc>
+		<lastmod>2024-10-23T16:53:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_9296-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/impe/</loc>
-		<lastmod>2024-10-22T21:24:13+00:00</lastmod>
+		<lastmod>2024-10-24T13:32:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
 		</image:image>
@@ -1413,6 +1423,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-2.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-8-e1729776523852.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-10.png</image:loc>
@@ -1434,16 +1447,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/manos-al-campo/</loc>
-		<lastmod>2024-10-23T16:53:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_9296-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
