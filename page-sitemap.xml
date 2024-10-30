@@ -2,12 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-20T22:00:45+00:00</lastmod>
+		<lastmod>2024-10-30T14:28:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/10/Mask-Group-89-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/06/Mask-Group-89.png</image:loc>
@@ -1453,8 +1459,24 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/convocatoria-soy-teg/</loc>
+		<lastmod>2024-10-30T15:09:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/impe-2023/</loc>
-		<lastmod>2024-10-30T14:09:14+00:00</lastmod>
+		<lastmod>2024-10-30T15:15:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Impe2023-02.png</image:loc>
 		</image:image>
@@ -1491,21 +1513,29 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/barra-porce-17.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/convocatoria-soy-teg/</loc>
-		<lastmod>2024-10-30T14:17:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/maps-18.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/maps-19.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/maps-20.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/fotter-22.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/fotter-23.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas-1024x342.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/fotter-24.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
