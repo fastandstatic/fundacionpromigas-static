@@ -1391,22 +1391,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/convocatoria-soy-teg/</loc>
-		<lastmod>2024-10-30T15:09:41+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/quienes-somos-2/</loc>
 		<lastmod>2024-10-31T14:08:29+00:00</lastmod>
 		<image:image>
@@ -1536,6 +1520,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/convocatoria-soy-teg/</loc>
+		<lastmod>2024-11-01T20:55:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
