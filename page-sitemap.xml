@@ -1516,8 +1516,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/politicas-de-privacidad/</loc>
+		<lastmod>2024-11-05T16:31:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/SliderFP_Mesa-de-trabajo-1-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/convocatoria-soy-teg/</loc>
-		<lastmod>2024-11-01T20:55:39+00:00</lastmod>
+		<lastmod>2024-11-06T15:35:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/826491e0-942d-4b3b-8a25-6849ec88ae6d.jpeg</image:loc>
 		</image:image>
@@ -1529,13 +1536,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/politicas-de-privacidad/</loc>
-		<lastmod>2024-11-05T16:31:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/SliderFP_Mesa-de-trabajo-1-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
