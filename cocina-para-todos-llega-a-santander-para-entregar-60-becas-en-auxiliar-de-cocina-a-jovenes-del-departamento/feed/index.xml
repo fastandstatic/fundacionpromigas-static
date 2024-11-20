@@ -19,3 +19,8 @@
 	<generator>https://wordpress.org/?v=6.7</generator>
 </channel>
 </rss>
+pdateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+</channel>
+</rss>
