@@ -2,12 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-11-15T19:47:34+00:00</lastmod>
+		<lastmod>2024-11-21T17:49:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/10/Mask-Group-89-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/Banner-Web.jpg</image:loc>
@@ -448,22 +445,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/grados-cocina-scaled.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/cocinaemprendebuenaventura/</loc>
-		<lastmod>2024-01-31T15:54:18+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/gases-de-occidente-logo-B604CD32B8-seeklogo.com_.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Logo-png.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/logo-fundacion-wwb.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1536,6 +1517,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocinaemprendebuenaventura/</loc>
+		<lastmod>2024-11-21T17:49:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/gases-de-occidente-logo-B604CD32B8-seeklogo.com_.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Logo-png.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/logo-fundacion-wwb.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
