@@ -1514,19 +1514,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/impulsoetnico/</loc>
-		<lastmod>2024-12-05T16:50:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/quienessomos/</loc>
 		<lastmod>2024-12-05T16:53:46+00:00</lastmod>
 		<image:image>
@@ -1546,6 +1533,22 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/impulsoetnico/</loc>
+		<lastmod>2024-12-09T17:57:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/12/PORTADA-impulso-etnico-_11zon-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
