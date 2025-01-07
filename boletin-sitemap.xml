@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/boletin/</loc>
-		<lastmod>2024-08-02T15:29:01+00:00</lastmod>
+		<lastmod>2025-01-07T14:30:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/boletin/boletin-mayo/</loc>
@@ -16,6 +16,13 @@
 		<lastmod>2024-08-02T15:29:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2024/06/18160143/boletin-abril2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/boletin/boletin-diciembre/</loc>
+		<lastmod>2025-01-07T14:30:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2025/01/07085121/Captura-de-pantalla-2025-01-07-a-las-8.51.05%E2%80%AFa.m-e1736258258157.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
