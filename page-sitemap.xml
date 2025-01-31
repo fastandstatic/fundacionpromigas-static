@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-01-09T20:56:23+00:00</lastmod>
+		<lastmod>2025-01-31T13:48:39+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -1032,22 +1032,6 @@
 		<lastmod>2024-08-06T14:05:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/alascomunidadespuebloviejo/</loc>
-		<lastmod>2024-08-08T15:36:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/ley-de-proteccion-de-datos/</loc>
 		<lastmod>2024-08-29T15:22:18+00:00</lastmod>
 		<image:image>
@@ -1252,28 +1236,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/logos-cocina-emprende-02.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/rutarosa/</loc>
-		<lastmod>2024-10-08T19:25:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1595,6 +1557,69 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/alascomunidadespuebloviejo/</loc>
+		<lastmod>2025-01-30T17:20:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/USAID_Horiz_Spanish_RGB_2-Color.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/CEO__mano_amiga-removebg-preview-e1715101400770.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/masemprendimientococinacandelaria/</loc>
+		<lastmod>2025-01-31T13:27:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-64.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-59.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-69.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-37.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rutarosa/</loc>
+		<lastmod>2025-01-31T13:58:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
