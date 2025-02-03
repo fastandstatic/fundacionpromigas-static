@@ -1576,50 +1576,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/masemprendimientococinacandelaria/</loc>
-		<lastmod>2025-01-31T13:27:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-64.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-59.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-69.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-37.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
-		<lastmod>2025-01-31T17:44:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Promioriente.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Transmetano-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/LOGO-CAJASAN_LOGO-HRT-AZUL.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/rutarosa/</loc>
 		<lastmod>2025-01-31T21:42:39+00:00</lastmod>
 		<image:image>
@@ -1639,6 +1595,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
+		<lastmod>2025-01-31T21:48:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Promioriente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Transmetano-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/LOGO-CAJASAN_LOGO-HRT-AZUL.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/masemprendimientococinacandelaria/</loc>
+		<lastmod>2025-02-03T13:29:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-69.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-64.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-59.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-37.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
