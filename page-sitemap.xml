@@ -2,9 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T19:09:08+00:00</lastmod>
+		<lastmod>2025-02-10T14:19:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Diana-Moreno-Sembrana-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/GC_Ruta-Rosa_Webs_2000x700px.png</image:loc>
@@ -14,6 +17,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/EVENTO-HUELLAS-SOCIAL_86_11zon-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Diana-Moreno-Sembrana-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/GC_Ruta-Rosa_Webs_2000x700px.png</image:loc>
@@ -1635,8 +1641,18 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/joven-caucano-esta-convocatoria-es-para-ti/</loc>
+		<lastmod>2025-02-06T22:15:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Soy-TEC--scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banda-de-logos-Soy-TEC.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
-		<lastmod>2025-02-06T15:01:40+00:00</lastmod>
+		<lastmod>2025-02-10T14:09:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
 		</image:image>
@@ -1654,18 +1670,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/joven-caucano-esta-convocatoria-es-para-ti/</loc>
-		<lastmod>2025-02-06T22:15:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Soy-TEC--scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banda-de-logos-Soy-TEC.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/macajonjoli-miel/</loc>
-		<lastmod>2025-02-07T20:37:25+00:00</lastmod>
+		<lastmod>2025-02-10T14:10:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
 		</image:image>
@@ -1677,6 +1683,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/AEA-Imagotipo-naranja-ayuda-pantalla-4000x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Granitos_2023-01-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
