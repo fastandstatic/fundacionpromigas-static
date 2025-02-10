@@ -1335,16 +1335,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/manos-al-campo/</loc>
-		<lastmod>2024-10-23T16:53:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_9296-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/Recurso-1@4x-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/politicas-de-privacidad/</loc>
 		<lastmod>2024-11-05T16:31:22+00:00</lastmod>
 		<image:image>
@@ -1671,7 +1661,7 @@
 	</url>
 	<url>
 		<loc>/macajonjoli-miel/</loc>
-		<lastmod>2025-02-10T14:10:10+00:00</lastmod>
+		<lastmod>2025-02-10T16:32:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
 		</image:image>
@@ -1684,8 +1674,15 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/AEA-Imagotipo-naranja-ayuda-pantalla-4000x.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/manos-al-campo/</loc>
+		<lastmod>2025-02-10T16:35:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Granitos_2023-01-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/10/IMG_9296-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Recurso-123.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
