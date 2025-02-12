@@ -1631,16 +1631,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/joven-caucano-esta-convocatoria-es-para-ti/</loc>
-		<lastmod>2025-02-06T22:15:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Soy-TEC--scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banda-de-logos-Soy-TEC.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
 		<lastmod>2025-02-10T14:09:24+00:00</lastmod>
 		<image:image>
@@ -1683,6 +1673,32 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/Recurso-123.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/soytecsurycentro/</loc>
+		<lastmod>2025-02-11T19:28:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner-Soy-TEC.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banda-de-logos-Soy-TEC.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/avivavozvalle/</loc>
+		<lastmod>2025-02-12T22:38:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/LOGO-TU-BARCO-2021.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
