@@ -1673,22 +1673,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/avivavozvalle/</loc>
-		<lastmod>2025-02-12T22:38:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/LOGO-TU-BARCO-2021.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
 		<lastmod>2025-02-13T22:50:34+00:00</lastmod>
 		<image:image>
@@ -1705,6 +1689,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/01/LOGO-CAJASAN_LOGO-HRT-AZUL.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/avivavozvalle/</loc>
+		<lastmod>2025-02-17T14:25:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Marca-de-Riopaila-castilla-RGB-PNG_Mesa-de-trabajo-1-copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/LOGO-TU-BARCO-2021.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
