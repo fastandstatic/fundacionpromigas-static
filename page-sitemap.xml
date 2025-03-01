@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-25T17:06:21+00:00</lastmod>
+		<lastmod>2025-02-28T19:45:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -73,7 +73,7 @@
 			<image:loc>/wp-content/uploads/2022/07/LogoCEOFP-21.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/LogoSpecFP-27.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/SPEC_LOGOTIPO-01-copia-1024x501.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/05/Promigas_V_Positiva_Recomendada-PERU-01.png</image:loc>
@@ -1675,16 +1675,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/soytecsurycentro/</loc>
-		<lastmod>2025-02-11T19:28:00+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner-Soy-TEC.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banda-de-logos-Soy-TEC.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
 		<lastmod>2025-02-13T22:50:34+00:00</lastmod>
 		<image:image>
@@ -1720,6 +1710,23 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mibuenvecinotransmetano/</loc>
+		<lastmod>2025-02-27T15:19:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-27-101412.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/soytecsurycentro/</loc>
+		<lastmod>2025-02-27T21:38:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner-Soy-TEC-VF.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banda-de-logos-Soy-TEC-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
