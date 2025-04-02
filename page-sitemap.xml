@@ -353,10 +353,6 @@
 		<lastmod>2021-10-12T14:29:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/directorio-corporativo/</loc>
-		<lastmod>2021-10-14T14:24:32+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/galeria/</loc>
 		<lastmod>2021-10-14T18:25:32+00:00</lastmod>
 	</url>
@@ -367,10 +363,6 @@
 	<url>
 		<loc>/contacto/</loc>
 		<lastmod>2021-10-26T20:27:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/directorio-corporativo/</loc>
-		<lastmod>2022-05-03T21:01:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/arcillas/</loc>
@@ -1716,16 +1708,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/soytecsurycentro/</loc>
-		<lastmod>2025-03-11T20:54:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner-Soy-TEC-VF.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/Banda-de-logos-Soy-TEC-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/impulsojovenvalle/</loc>
 		<lastmod>2025-03-17T13:53:19+00:00</lastmod>
 		<image:image>
@@ -1783,6 +1765,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/soytecsurycentro/</loc>
+		<lastmod>2025-04-02T17:31:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner-Soy-TEC-VF.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/Banda-de-logos-Soy-TEC-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
