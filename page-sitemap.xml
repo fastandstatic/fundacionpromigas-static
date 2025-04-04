@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-03-20T21:32:25+00:00</lastmod>
+		<lastmod>2025-04-04T13:45:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -16,24 +16,6 @@
 			<image:loc>/wp-content/uploads/2025/03/Banner-web-Soy-TEC.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/IMG_0127-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/ALAS-COMUNICADADES-EVENTO-CIERRE_136-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Diana-Moreno-Sembrana-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/GC_Ruta-Rosa_Webs_2000x700px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/banner-2-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/EVENTO-HUELLAS-SOCIAL_86_11zon-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
@@ -44,24 +26,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/Banner-web-Soy-TEC.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/IMG_0127-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/ALAS-COMUNICADADES-EVENTO-CIERRE_136-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Diana-Moreno-Sembrana-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/GC_Ruta-Rosa_Webs_2000x700px.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/banner-2-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/12/EVENTO-HUELLAS-SOCIAL_86_11zon-scaled.webp</image:loc>
@@ -1590,117 +1554,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/masemprendimientococinacandelaria/</loc>
-		<lastmod>2025-02-03T13:29:46+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-69.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-64.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-59.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-37.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/rutarosa/</loc>
-		<lastmod>2025-02-04T13:21:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/macajonjoli-miel/</loc>
-		<lastmod>2025-02-10T16:32:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/AEA-Imagotipo-naranja-ayuda-pantalla-4000x.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/manos-al-campo/</loc>
-		<lastmod>2025-02-10T16:35:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_9296-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Recurso-123.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/convocatoriaalascomunidadesmagdalenamedio/</loc>
-		<lastmod>2025-02-13T22:50:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/ALAS-COMUNICADADES-EVENTO-CIERRE_136-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Promioriente.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Transmetano-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/LOGO-CAJASAN_LOGO-HRT-AZUL.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/avivavozvalle/</loc>
-		<lastmod>2025-02-17T14:25:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Marca-de-Riopaila-castilla-RGB-PNG_Mesa-de-trabajo-1-copia.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/LOGO-TU-BARCO-2021.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/mibuenvecinotransmetano/</loc>
 		<lastmod>2025-02-27T15:19:31+00:00</lastmod>
 		<image:image>
@@ -1775,6 +1628,117 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/Banda-de-logos-Soy-TEC-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-emprendimiento-cocina-candelaria-old/</loc>
+		<lastmod>2025-04-04T13:36:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Banner-convocatoria-Cocina-E.-Candelaria.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-69.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-64.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-59.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-37.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/convocatoria-alas-comunidades-magdalena-medio-old/</loc>
+		<lastmod>2025-04-04T13:36:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/ALAS-COMUNICADADES-EVENTO-CIERRE_136-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Promioriente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Transmetano-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/LOGO-CAJASAN_LOGO-HRT-AZUL.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-mac-ajonjoli-miel-old/</loc>
+		<lastmod>2025-04-04T13:37:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/AEA-Imagotipo-naranja-ayuda-pantalla-4000x.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/avivavozvalle-old/</loc>
+		<lastmod>2025-04-04T13:37:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Banner_Manos_al_Campo-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Marca-de-Riopaila-castilla-RGB-PNG_Mesa-de-trabajo-1-copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/LOGO-TU-BARCO-2021.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Grupo-47.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rutarosa-old/</loc>
+		<lastmod>2025-04-04T13:37:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/puebloviejo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa_Mesa-de-trabajo-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/logosfooterrutarosa-03.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/logo-promigas50.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/manos-al-campo-old/</loc>
+		<lastmod>2025-04-04T13:38:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_9296-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Recurso-123.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
