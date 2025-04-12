@@ -1554,13 +1554,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/mibuenvecinotransmetano/</loc>
-		<lastmod>2025-02-27T15:19:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-27-101412.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/impulsojovenvalle/</loc>
 		<lastmod>2025-03-17T13:53:19+00:00</lastmod>
 		<image:image>
@@ -1739,6 +1732,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/Recurso-123.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mibuenvecinotransmetano/</loc>
+		<lastmod>2025-04-07T16:08:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/E8AF96FA-CE4B-4AD3-8E36-8A7AE834D815.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
