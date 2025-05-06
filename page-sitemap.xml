@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-05T21:08:53+00:00</lastmod>
+		<lastmod>2025-05-06T20:22:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/600-x-400-banner-FP-celular-.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/600-x-400-banner-FP-celular-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/banner-1.jpg</image:loc>
@@ -37,10 +37,10 @@
 			<image:loc>/wp-content/uploads/2024/12/EVENTO-HUELLAS-SOCIAL_86_11zon-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/600-x-400-banner-FP-celular-.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/600-x-400-banner-FP-celular-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/banner-1.jpg</image:loc>
@@ -1177,73 +1177,6 @@
 		<lastmod>2024-09-24T16:46:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/lo-que-hacemos/</loc>
-		<lastmod>2024-09-24T16:51:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-95@2x-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-11.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-12.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-13.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Caribe-Exponencial-y-Jovenes-Participoiuytrpando-Alternativamente.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-14.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-8.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/ico-proTalento@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Caribe-Exponencial-y-Jovenes-Participando-Alternativamente.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-97@2x-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-10-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-10-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-11-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/saborProgreso__@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-12-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-8-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-9-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/Mask-Group-9.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/ico-iluminandoVidas@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/escuelaserviciosatl/</loc>
 		<lastmod>2024-10-07T21:45:07+00:00</lastmod>
 		<image:image>
@@ -1781,10 +1714,77 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/a-viva-voz-cauca-semilleros/</loc>
-		<lastmod>2025-05-05T20:56:31+00:00</lastmod>
+		<loc>/lo-que-hacemos/</loc>
+		<lastmod>2025-05-06T19:39:04+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-95@2x-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-11.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-12.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-13.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Caribe-Exponencial-y-Jovenes-Participoiuytrpando-Alternativamente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-14.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/ico-proTalento@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Caribe-Exponencial-y-Jovenes-Participando-Alternativamente.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-97@2x-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-10-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-10-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-11-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/saborProgreso__@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-12-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-8-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-9-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/Mask-Group-9.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/ico-iluminandoVidas@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Artboard-%E2%80%93-1.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-viva-voz-cauca-semilleros/</loc>
+		<lastmod>2025-05-06T20:23:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/logo-base-MAeS-TVondo-blanco-1024x836.png</image:loc>
