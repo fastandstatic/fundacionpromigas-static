@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-06T20:22:24+00:00</lastmod>
+		<lastmod>2025-05-12T17:32:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/IMG_1413.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/600-x-400-banner-FP-celular-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/IMG_1412.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/banner-1.jpg</image:loc>
@@ -37,10 +37,10 @@
 			<image:loc>/wp-content/uploads/2024/12/EVENTO-HUELLAS-SOCIAL_86_11zon-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/IMG_1413.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/600-x-400-banner-FP-celular-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/IMG_1412.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/banner-1.jpg</image:loc>
@@ -1782,9 +1782,9 @@
 	</url>
 	<url>
 		<loc>/a-viva-voz-cauca-semilleros/</loc>
-		<lastmod>2025-05-09T19:48:38+00:00</lastmod>
+		<lastmod>2025-05-12T17:31:35+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/IMG_1413.jpeg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/logo-base-MAeS-TVondo-blanco-1024x836.png</image:loc>
