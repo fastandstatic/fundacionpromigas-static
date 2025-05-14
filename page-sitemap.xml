@@ -2,12 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-13T19:51:11+00:00</lastmod>
+		<lastmod>2025-05-13T23:37:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.webp</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/IMG_1412.jpeg</image:loc>
@@ -31,7 +31,7 @@
 			<image:loc>/wp-content/uploads/2025/03/BANNER-WEB-600-x-400-option.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.webp</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/IMG_1412.jpeg</image:loc>
@@ -1770,9 +1770,9 @@
 	</url>
 	<url>
 		<loc>/a-viva-voz-cauca-semilleros/</loc>
-		<lastmod>2025-05-13T19:55:47+00:00</lastmod>
+		<lastmod>2025-05-13T23:37:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.webp</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/principal-100-2-3-e1746047871526.jpg</image:loc>
