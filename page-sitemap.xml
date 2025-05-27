@@ -1721,10 +1721,20 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/a-viva-voz-cauca-semilleros/</loc>
-		<lastmod>2025-05-15T16:49:10+00:00</lastmod>
+		<loc>/escuela-de-servicios-santa-marta/</loc>
+		<lastmod>2025-05-21T22:28:43+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1600-x-526-Banner-web-FP.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/banner-PC-Escuela-de-Servicios-SM.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-viva-voz-cauca-semilleros/</loc>
+		<lastmod>2025-05-27T16:24:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/Banner-web-FP-.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/principal-100-2-3-e1746047871526.jpg</image:loc>
@@ -1737,16 +1747,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/Logo-SENA-Cauca-1024x239.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/escuela-de-servicios-santa-marta/</loc>
-		<lastmod>2025-05-21T22:28:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/banner-PC-Escuela-de-Servicios-SM.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
