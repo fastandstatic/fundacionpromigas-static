@@ -1721,16 +1721,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/escuela-de-servicios-santa-marta/</loc>
-		<lastmod>2025-05-21T22:28:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/banner-PC-Escuela-de-Servicios-SM.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/a-viva-voz-cauca-semilleros/</loc>
 		<lastmod>2025-05-28T15:02:05+00:00</lastmod>
 		<image:image>
@@ -1747,6 +1737,32 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/Logo-SENA-Cauca-1024x239.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-web-bolivar-o-key/</loc>
+		<lastmod>2025-05-29T20:40:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/escuela-de-servicios-santa-marta/</loc>
+		<lastmod>2025-05-29T20:41:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/banner-medidad-nueva.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
