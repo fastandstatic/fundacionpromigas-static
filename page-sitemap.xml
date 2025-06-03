@@ -1757,12 +1757,28 @@
 	</url>
 	<url>
 		<loc>/escuela-de-servicios-santa-marta/</loc>
-		<lastmod>2025-05-30T20:35:54+00:00</lastmod>
+		<lastmod>2025-06-03T15:07:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/banner-medidad-nueva.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-convocatoria-emprende-territorio/</loc>
+		<lastmod>2025-06-03T15:11:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
