@@ -1740,8 +1740,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/landing-web-bolivar-o-key/</loc>
-		<lastmod>2025-05-29T20:40:08+00:00</lastmod>
+		<loc>/escuela-de-servicios-santa-marta/</loc>
+		<lastmod>2025-06-03T15:07:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/banner-medidad-nueva.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-convocatoria-emprende-territorio/</loc>
+		<lastmod>2025-06-03T15:11:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
 		</image:image>
@@ -1756,18 +1766,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/escuela-de-servicios-santa-marta/</loc>
-		<lastmod>2025-06-03T15:07:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/banner-medidad-nueva.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/Banda-de-logos-Escuela-de-Servicios-Santa-Marta.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/landing-convocatoria-emprende-territorio/</loc>
-		<lastmod>2025-06-03T15:11:59+00:00</lastmod>
+		<loc>/landing-web-bolivar-o-key/</loc>
+		<lastmod>2025-06-04T21:45:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
 		</image:image>
