@@ -1753,28 +1753,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/a-viva-voz-cauca-semilleros/</loc>
-		<lastmod>2025-06-05T19:15:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/banner-a-viva-voz1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/a-viva-voz.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/logo-base-MAeS-TVondo-blanco-1024x836.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/principal-100-2-3-e1746047871526.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/04/Logo-SENA-Cauca-1024x239.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/landing-convocatoria-emprende-territorio/</loc>
 		<lastmod>2025-06-05T19:28:37+00:00</lastmod>
 		<image:image>
@@ -1794,6 +1772,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-viva-voz-cauca-semilleros/</loc>
+		<lastmod>2025-06-09T22:21:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/banner-a-viva-voz1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/a-viva-voz.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/logo-base-MAeS-TVondo-blanco-1024x836.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/FUNDACION_PROMIGAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/principal-100-2-3-e1746047871526.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Logo-SENA-Cauca-1024x239.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
