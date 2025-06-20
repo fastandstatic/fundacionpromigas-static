@@ -1731,28 +1731,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/landing-web-bolivar-o-key/</loc>
-		<lastmod>2025-06-05T14:07:00+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/BOLIVAR-OK-5.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/BOLIVAR-OK-6-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/landing-convocatoria-emprende-territorio/</loc>
 		<lastmod>2025-06-05T19:28:37+00:00</lastmod>
 		<image:image>
@@ -1794,6 +1772,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/04/Logo-SENA-Cauca-1024x239.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-web-bolivar-o-key/</loc>
+		<lastmod>2025-06-20T21:07:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Banner-web-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Banner-web-2-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
