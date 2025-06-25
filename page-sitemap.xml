@@ -1628,22 +1628,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/convocatoria-soy-teg/</loc>
-		<lastmod>2025-04-24T20:23:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/banner-SOY-TEG-Mesa-de-trabajo-1-copia@3x-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/lo-que-hacemos/</loc>
 		<lastmod>2025-05-06T19:39:04+00:00</lastmod>
 		<image:image>
@@ -1794,6 +1778,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/convocatoria-soy-teg/</loc>
+		<lastmod>2025-06-25T21:24:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/BANNER-WEB-SOY-TEG-3-.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/BANNER-WEB-MOBILE-SOY-TEG-3-.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/FUNDPROMIGAS25.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
