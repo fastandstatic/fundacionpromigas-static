@@ -1755,8 +1755,27 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/convocatoria-soy-teg/</loc>
+		<lastmod>2025-07-11T22:07:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/BANNER-WEB-SOY-TEG-3-.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Banner-celular-Soy-TEG.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/landing-web-bolivar-o-key/</loc>
-		<lastmod>2025-06-20T21:07:45+00:00</lastmod>
+		<lastmod>2025-07-15T13:52:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/06/Banner-web-1.png</image:loc>
 		</image:image>
@@ -1774,25 +1793,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/convocatoria-soy-teg/</loc>
-		<lastmod>2025-07-11T22:07:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/BANNER-WEB-SOY-TEG-3-.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Banner-celular-Soy-TEG.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
