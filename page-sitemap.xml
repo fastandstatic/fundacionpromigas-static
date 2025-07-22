@@ -1797,7 +1797,7 @@
 	</url>
 	<url>
 		<loc>/jagalena/</loc>
-		<lastmod>2025-07-22T16:01:54+00:00</lastmod>
+		<lastmod>2025-07-22T20:13:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/fondo-e1753200001919.jpg</image:loc>
 		</image:image>
@@ -1815,6 +1815,15 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/imagen-catalogo-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Transmetano-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/07/ccmmna-logo.svg</image:loc>
 		</image:image>
 	</url>
 </urlset>
