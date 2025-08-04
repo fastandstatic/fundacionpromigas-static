@@ -1774,28 +1774,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/landing-web-bolivar-o-key/</loc>
-		<lastmod>2025-07-15T13:52:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Banner-web-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Banner-web-2-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/jagalena/</loc>
 		<lastmod>2025-07-22T20:13:46+00:00</lastmod>
 		<image:image>
@@ -1843,6 +1821,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/LOGO-ACD-e1754087091533-1024x470.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/landing-web-bolivar-o-key-old/</loc>
+		<lastmod>2025-08-04T15:55:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Banner-web-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Banner-web-2-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/1Secretaria-de-Desarrollo-1--1024x168.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/logo-surtigas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/01/Logo-fundacion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
