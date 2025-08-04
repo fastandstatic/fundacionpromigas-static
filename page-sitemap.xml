@@ -1805,25 +1805,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cocina-emprende-luruaco/</loc>
-		<lastmod>2025-08-01T22:28:16+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/mas-emprendimiento-territorios-elemntos-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/mas-emprendimiento-territorios-banner-wtspp-001-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/PromiColor@2x.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/LOGO-ACD-e1754087091533-1024x470.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/landing-web-bolivar-o-key-old/</loc>
 		<lastmod>2025-08-04T15:55:26+00:00</lastmod>
 		<image:image>
@@ -1843,6 +1824,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/descarga.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocina-emprende-luruaco/</loc>
+		<lastmod>2025-08-04T19:10:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/mas-emprendimiento-territorios-elemntos-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/mas-emprendimiento-territorios-banner-wtspp-001-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/PromiColor@2x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/LOGO-ACD-e1754087091533-1024x470.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
