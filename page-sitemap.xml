@@ -1481,28 +1481,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/quienessomos/</loc>
-		<lastmod>2025-03-31T22:29:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/mas-emprendimiento-cocina-candelaria-old/</loc>
 		<lastmod>2025-04-04T13:36:31+00:00</lastmod>
 		<image:image>
@@ -1843,6 +1821,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/LOGO-ACD-e1754087091533-1024x470.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/quienessomos/</loc>
+		<lastmod>2025-08-15T14:39:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
