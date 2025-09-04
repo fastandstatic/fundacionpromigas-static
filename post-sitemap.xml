@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/con-una-inversion-de-360-millones-promigas-reactiva-la-produccion-agricola-de-los-campesinos-en-el-caribe-colombiano/</loc>
@@ -999,7 +999,7 @@
 	</url>
 	<url>
 		<loc>/fundacion-promigas-y-universidad-del-norte-presentan-a-la-primera-cohorte-de-embajadores-del-servicio-en-el-atlantico/</loc>
-		<lastmod>2025-08-19T22:15:08+00:00</lastmod>
+		<lastmod>2025-08-20T16:05:39+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2025/08/19171245/IMG_5414.webp</image:loc>
 		</image:image>
