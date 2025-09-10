@@ -332,10 +332,6 @@
 		<lastmod>2022-09-21T16:01:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/mas-empleo-juvenil/</loc>
-		<lastmod>2022-10-04T14:35:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/quienes-somos/</loc>
 		<lastmod>2022-10-05T14:03:17+00:00</lastmod>
 	</url>
@@ -1859,6 +1855,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-emprendimiento-2/</loc>
+		<lastmod>2025-09-05T14:15:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/09/Enmascarar_grupo_92_1_copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-empleo-juvenil/</loc>
+		<lastmod>2025-09-08T15:12:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/OCDE-5-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Logo-Mas-Empleo-Juvenil-819x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Escuela-de-servicios-Flat-1024x279.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-08-a-las-9.59.26-a.m-1024x680.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Cocina-para-Todos-Flat-1024x285.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-08-a-las-9.58.26-a.m-763x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Mujeres-Pa_-lante-1024x375.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
