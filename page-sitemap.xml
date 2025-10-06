@@ -1836,25 +1836,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/mas-emprendimiento-2/</loc>
-		<lastmod>2025-09-05T14:15:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/09/Enmascarar_grupo_92_1_copia.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/mas-empleo-juvenil/</loc>
 		<lastmod>2025-09-16T22:31:39+00:00</lastmod>
 		<image:image>
@@ -1899,6 +1880,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-emprendimiento-2/</loc>
+		<lastmod>2025-10-06T21:21:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/09/Enmascarar_grupo_92_1_copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
