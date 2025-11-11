@@ -1812,58 +1812,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/impe/</loc>
-		<lastmod>2025-10-21T15:04:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/logo-company-300x148.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/image-300x100.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-2.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-4.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-3.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-8-e1729776523852.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-10.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/logos-2-2.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/logos-2-3.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/logos-2-4.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/logos-2-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Group-74.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/logo-promigas-web-e1761059071271.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/convocatoria-orfebreria-antioquia/</loc>
 		<lastmod>2025-11-04T22:32:10+00:00</lastmod>
 		<image:image>
@@ -1927,6 +1875,61 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/10/gramalote-co-logo-1024x390.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/impe/</loc>
+		<lastmod>2025-11-11T19:37:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/logo-company-300x148.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/image-300x100.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-2.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-4.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Logos-IMPE-icons-3.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-8-e1729776523852.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Enmascarar-grupo-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-2.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-3.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-4.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/logos-2-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Group-74.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/logo-promigas-web-e1761059071271.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
