@@ -1856,28 +1856,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cocinaparatodossantanderii/</loc>
-		<lastmod>2025-11-10T17:25:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/IMG-20250127-WA0028.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/600-x-450-banner-movil-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/Transmetano-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/Logo-microempresas.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/10/gramalote-co-logo-1024x390.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/impe/</loc>
 		<lastmod>2025-11-11T19:37:39+00:00</lastmod>
 		<image:image>
@@ -1930,6 +1908,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocinaparatodossantanderii/</loc>
+		<lastmod>2025-11-12T21:30:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/Banner-cocina-para-todos.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/11/Version-celular-responsive.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/Transmetano-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/Logo-microempresas.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/10/gramalote-co-logo-1024x390.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
