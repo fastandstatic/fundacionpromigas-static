@@ -1930,8 +1930,27 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/emprende-territorio/</loc>
+		<lastmod>2025-12-26T22:15:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/12/Banner-web-principal.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/12/Banner-web-600-x-450.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/12/Tinta-Plana-transparencia-1-1024x819.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/LogoSurtigasFP-17.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/quienessomos/</loc>
-		<lastmod>2025-12-05T19:32:10+00:00</lastmod>
+		<lastmod>2026-01-06T19:23:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
 		</image:image>
@@ -1949,25 +1968,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/emprende-territorio/</loc>
-		<lastmod>2025-12-26T22:15:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/Banner-web-principal.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/Banner-web-600-x-450.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/Tinta-Plana-transparencia-1-1024x819.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/LogoSurtigasFP-17.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
