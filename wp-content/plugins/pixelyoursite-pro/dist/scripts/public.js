@@ -1575,9 +1575,8 @@
                         }
 
                     }
-
                     // save data for last visit if it new session
-                    if(isNewSession && (!options.cookie.disabled_all_cookie)) {
+                    if(!isNewSession && (!options.cookie.disabled_all_cookie)) {
                         if(!options.cookie.disabled_trafficsource_cookie)
                         {
                             Cookies.set('last_pysTrafficSource', getTrafficSource(), { expires: expires,path: '/',domain: domain });
@@ -1599,8 +1598,6 @@
                             $.each(utmTerms, function (index, name) {
                                 if (queryVars.hasOwnProperty(name)) {
                                     Cookies.set('last_pys_' + name, queryVars[name], { expires: expires,path: '/',domain: domain });
-                                } else {
-                                    Cookies.remove('last_pys_' + name, { path: '/',domain: domain })
                                 }
                             });
                         }
@@ -1615,8 +1612,6 @@
                             $.each(utmId,function(index,name) {
                                 if (queryVars.hasOwnProperty(name)) {
                                     Cookies.set('last_pys_' + name, queryVars[name], { expires: expires,path: '/',domain: domain });
-                                } else {
-                                    Cookies.remove('last_pys_' + name, { path: '/',domain: domain })
                                 }
                             })
                         }
@@ -4307,7 +4302,15 @@
                 return loadTags.some(loadTag => pixelId.startsWith(loadTag)) && !Utils.hideMatchingPixel(pixelId, 'ga') && !Utils.hideMatchingPixel(pixelId, 'google_ads');
             })
 
+            // Generate unique event_id for deduplication
+            eventParams.event_id = Utils.generateUniqueId(event);
+            event.eventID = Utils.generateUniqueId(event);
+
             Utils.copyProperties(Utils.getRequestParams(), eventParams);
+
+            var copyParams = Utils.copyProperties(eventParams, {}); // copy params because mapParamsTov4 can modify it
+            var params = mapParamsTov4(ids,name,copyParams)
+
             var _fireEvent = function (tracking_ids,name,params) {
 
                 params['send_to'] = tracking_ids;
@@ -4328,12 +4331,6 @@
                 window.dispatchEvent(customEvent);
 
             };
-
-            var copyParams = Utils.copyProperties(eventParams, {}); // copy params because mapParamsTov4 can modify it
-
-            var params = mapParamsTov4(ids,name,copyParams)
-
-            params.event_id = Utils.generateUniqueId(event);
 
 
             delete params.analytics_storage;
