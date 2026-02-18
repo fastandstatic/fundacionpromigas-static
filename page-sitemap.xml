@@ -2031,25 +2031,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/cocinaecauca/</loc>
-		<lastmod>2026-02-10T19:24:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/Landing-Convocatoria-Escuela-de-servicios-II-Banner-2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/02/Banner-celular-Escuela-II.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Universidad-de-San-Buenaventura-Logo-Vector.svg--1024x368.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/LogoSurtigasFP-17.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/escuelaatlanticoii/</loc>
 		<lastmod>2026-02-10T19:28:06+00:00</lastmod>
 		<image:image>
@@ -2066,6 +2047,34 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/cocinaecauca/</loc>
+		<lastmod>2026-02-18T21:38:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/Banner-de-convocatoria-Cocina-Emprende-Cauca.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/Banner-celular-Escuela-II.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/Gdo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/LogoCEOFP-21.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/logo-fundacion-wwb.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/logos-Artboard-24@300x.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/images-e1771450595949.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
