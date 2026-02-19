@@ -1,4 +1,4 @@
-/*! pro-elements- v3.34.0 - 22-12-2025 */
+/*! pro-elements - v3.35.0 - 02-02-2026 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -155,7 +155,7 @@ class DisplayConditionsBehavior extends Marionette.Behavior {
     event.stopPropagation();
     elementor.promotion.showDialog({
       title: __('Display Conditions', 'elementor-pro'),
-      content: "",
+      content: __('', 'elementor-pro'),
       targetElement: this.el,
       actionButton: {
         url: 'https://go.elementor.com/go-pro-advanced-display-conditions/',

@@ -1,4 +1,4 @@
-/*! pro-elements- v3.34.0 - 22-12-2025 */
+/*! pro-elements - v3.35.0 - 02-02-2026 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -1219,7 +1219,7 @@ function ConditionsModal() {
       } = elements;
       if (!title.$input.attr('value').length) {
         title.$label.addClass('screen-reader-text');
-        title.$input.attr('value', __('Elementor Custom-Code #', 'elementor-pro') + elementorProAdmin.customCode.post.ID);
+        title.$input.attr('value', __('Custom-Code #', 'elementor-pro') + elementorProAdmin.customCode.post.ID);
       }
     },
     onPublishClick = e => {
