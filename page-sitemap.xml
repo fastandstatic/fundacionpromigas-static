@@ -1993,25 +1993,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/escuelaserviciosbarranca/</loc>
-		<lastmod>2026-02-03T13:37:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/Banner-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/%C2%BFTienes-un-negocio-en-La-Guajira.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/logo_horizontal.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/LogoPromiorienteFP-11.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/soy-teg-crisalida-old/</loc>
 		<lastmod>2026-02-06T19:15:11+00:00</lastmod>
 		<image:image>
@@ -2075,6 +2056,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/02/images-e1771450595949.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/escuelaserviciosbarranca/</loc>
+		<lastmod>2026-02-24T19:55:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/Escuela-barranca-banner-.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/02/Escuela-Barranca-banner-cel.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/logo_horizontal.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/LogoPromiorienteFP-11.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
