@@ -20,7 +20,101 @@
         domain = getRootDomain(true);
     }
 
+    /**
+     * Resolve parameter value based on mode (static or dynamic)
+     *
+     * @param {Object|string} param - Parameter object with { value, selector } or string value
+     * @returns {string|null} - Resolved value
+     */
+    function resolveParamValue(param, key = '') {
 
+        // 1️⃣ null / undefined - skip this parameter
+        if (param === null || param === undefined) {
+            return null;
+        }
+
+        // 2️⃣ primitive
+        if (typeof param !== 'object') {
+            return param;
+        }
+
+        // 3️⃣ array
+        if (Array.isArray(param)) {
+            return param.map(item => resolveParamValue(item, key));
+        }
+
+        // 4️⃣ NEW FORMAT OBJECT (config-object)
+        const isConfigObject =
+            ('value' in param || 'selector' in param || 'dynamic' in param || 'input_type' in param) &&
+            Object.keys(param).every(k =>
+                ['value','selector','dynamic','input_type','name'].includes(k)
+            );
+
+        if (isConfigObject) {
+
+            // STATIC MODE
+            const isStatic =
+                !param.dynamic ||
+                !param.selector ||
+                param.selector.trim() === '';
+
+            if (isStatic) {
+                let value = param.value ?? null;
+
+                if (param.input_type === "float" || param.input_type === "int") {
+                    value = extractNumericValue(
+                        value,
+                        param.input_type === "int"
+                    );
+                }
+
+                return value;
+            }
+
+            // DYNAMIC MODE
+            try {
+                const el = document.querySelector(param.selector);
+                if (!el) return null;
+
+                let value =
+                    el.value ??
+                    el.innerText ??
+                    el.textContent ??
+                    el.getAttribute("content") ??
+                    el.getAttribute("data-value") ??
+                    null;
+
+                if (param.input_type === "float" || param.input_type === "int") {
+                    value = extractNumericValue(
+                        value,
+                        param.input_type === "int"
+                    );
+                }
+
+                return value;
+
+            } catch {
+                return null;
+            }
+        }
+
+        // 5️⃣ Plain object (recursive traversal) - filter out null/undefined values
+        return Object.fromEntries(
+            Object.entries(param)
+                .map(([k, v]) => [k, resolveParamValue(v, k)])
+                .filter(([k, v]) => v !== null && v !== undefined)
+        );
+    }
+
+    function extractNumericValue(value, isInt=false) {
+        if (value === null || value === undefined) {
+            return null;
+        }
+        if (isInt) {
+            return parseInt(value);
+        }
+        return parseFloat(value);
+    }
 
     var loadTags = [];
 
@@ -852,9 +946,6 @@
             }
             if(Cookies.get(name) && Cookies.get(name) !== "undefined") {
                 return Cookies.get(name);
-            }
-            else if(options.hasOwnProperty("tracking_analytics") && options.tracking_analytics.TrafficSource){
-                return options.tracking_analytics.TrafficSource;
             } else{
                 return "";
             }
@@ -1136,27 +1227,27 @@
                     this.sendRestAPIRequest(data, 'tiktok');
                     return;
                 }
-                
+
                 if (data.action === 'pys_api_event' && data.pixel === 'facebook' && window.pysFacebookRest) {
                     // Use Facebook REST API
                     this.sendRestAPIRequest(data, 'facebook');
                     return;
                 }
-                
+
                 // Check if sendBeacon is enabled and supported
                 if (options.useSendBeacon && navigator.sendBeacon) {
                     try {
                         // Flatten the data object for sendBeacon compatibility
                         const flattenedData = this.flattenObject(data);
                         const formData = new URLSearchParams();
-                        
+
                         // Convert flattened data to URLSearchParams
                         for (const [key, value] of Object.entries(flattenedData)) {
                             if (value !== null && value !== undefined) {
                                 formData.append(key, value);
                             }
                         }
-                        
+
                         // Try to send using sendBeacon
                         const success = navigator.sendBeacon(url, formData);
                         if (success) {
@@ -1169,7 +1260,7 @@
                         }
                     }
                 }
-                
+
                 // Fallback to jQuery.ajax
                 jQuery.ajax( {
                     type: 'POST',
@@ -1182,12 +1273,12 @@
                     },
                 } );
             },
-            
+
             // Send event via REST API (unified function for TikTok, Facebook, and other platforms)
             // Replaces the old sendTikTokRestAPIRequest and sendFacebookRestAPIRequest functions
             sendRestAPIRequest: function (data, platform) {
                 let restApiUrl;
-                
+
                 // Get platform-specific REST API configuration
                 switch (platform) {
                     case 'tiktok':
@@ -1204,6 +1295,7 @@
                         this.sendAjaxFallback(data);
                         return;
                 }
+
                 // Prepare data for REST API
                 const restApiData = {
                     event: data.event,
@@ -1214,7 +1306,7 @@
                     woo_order: data.woo_order || '0',
                     edd_order: data.edd_order || '0'
                 };
-                
+
                 // Try to send using sendBeacon first (if enabled)
                 if (options.useSendBeacon && navigator.sendBeacon) {
                     try {
@@ -1222,7 +1314,7 @@
                         for (const [key, value] of Object.entries(restApiData)) {
                             formData.append(key, value);
                         }
-                        
+
                         if (navigator.sendBeacon(restApiUrl, formData)) {
                             return;
                         }
@@ -1230,13 +1322,13 @@
                         // sendBeacon failed, continue to fetch
                     }
                 }
-                
+
                 // Try to send using fetch with REST API
                 if (window.fetch) {
                     const headers = {
                         'Content-Type': 'application/json'
                     };
-                    
+
                     fetch(restApiUrl, {
                         method: 'POST',
                         headers: headers,
@@ -1259,9 +1351,9 @@
                     this.sendAjaxFallback(data);
                 }
             },
-            
-            
-            
+
+
+
             // Fallback AJAX method
             sendAjaxFallback: function (data) {
                 jQuery.ajax({
@@ -1576,7 +1668,7 @@
 
                     }
                     // save data for last visit if it new session
-                    if(!isNewSession && (!options.cookie.disabled_all_cookie)) {
+                    if(isNewSession && (!options.cookie.disabled_all_cookie)) {
                         if(!options.cookie.disabled_trafficsource_cookie)
                         {
                             Cookies.set('last_pysTrafficSource', getTrafficSource(), { expires: expires,path: '/',domain: domain });
@@ -3339,6 +3431,22 @@
             },
 
             getFormFilledData: function ( event ) {
+                // First, resolve static/dynamic parameters
+                if (event.params && Object.keys(event.params).length > 0) {
+                    Object.entries(event.params).forEach(([key, value]) => {
+                        // Resolve parameter value (static or dynamic)
+                        const resolvedValue = resolveParamValue(value, key);
+                        if (resolvedValue !== null) {
+                            event.params[key] = resolvedValue;
+                        }
+                        else {
+                            delete event.params[key];
+                        }
+                    });
+                }
+
+                // Then, handle dynamic fields from cookies (existing logic)
+
                 if ( Object.keys(options.track_dynamic_fields).length > 0 && Object.keys(event.params).length > 0 ) {
                     Object.entries(event.params).forEach((item) => {
 
@@ -4278,6 +4386,7 @@
 
         var initialized = false;
         var isAllowEnhancedConversions = false;
+
         /**
          * Fires event
          *
@@ -4314,11 +4423,12 @@
             var _fireEvent = function (tracking_ids,name,params) {
 
                 params['send_to'] = tracking_ids;
-                
+
                 if (options.debug) {
                     console.log('[Google Analytics #' + tracking_ids + '] ' + name, params);
                 }
 
+                // Send via gtag
                 gtag('event', name, params);
 
                 var customEvent = new CustomEvent('gtag_event_sent', {
@@ -4329,7 +4439,6 @@
                     }
                 });
                 window.dispatchEvent(customEvent);
-
             };
 
 
@@ -4479,22 +4588,6 @@
                     }
                 }
 
-                var cd = {
-                    'dimension1': 'event_hour',
-                    'dimension2': 'event_day',
-                    'dimension3': 'event_month'
-                };
-
-                // configure Dynamic Remarketing CDs
-                if (options.ga.retargetingLogic === 'ecomm') {
-                    cd.dimension4 = 'ecomm_prodid';
-                    cd.dimension5 = 'ecomm_pagetype';
-                    cd.dimension6 = 'ecomm_totalvalue';
-                } else {
-                    cd.dimension4 = 'dynx_itemid';
-                    cd.dimension5 = 'dynx_pagetype';
-                    cd.dimension6 = 'dynx_totalvalue';
-                }
 
                 if(options.hasOwnProperty("tracking_analytics") && options.tracking_analytics.hasOwnProperty("userDataEnable") && options.tracking_analytics.userDataEnable){
                     var advanced = Utils.getAdvancedMergeFormData();
@@ -4503,9 +4596,7 @@
                     }
                 }
 
-                var config = {
-                    'custom_map': cd
-                };
+                var config = {};
 
                 if(options.user_id && options.user_id != 0) {
                     config.user_id = options.user_id;
@@ -4604,7 +4695,6 @@
                     });
                     isAdsLoad = true;
                 }
-
 
                 initialized = true;
 
@@ -7129,6 +7219,9 @@
 
 
         $(document).on('fluentform_submission_success', function ( event, data ) {
+            if(!data || !data.form){
+                return;
+            }
             let $form = data.form; // Submitted form
             let config = data.config; // Form configuration
             let response = data.response; // Server response
