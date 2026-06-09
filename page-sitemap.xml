@@ -2079,7 +2079,7 @@
 	</url>
 	<url>
 		<loc>/convocatoria-soy-teg/</loc>
-		<lastmod>2026-06-09T19:49:40+00:00</lastmod>
+		<lastmod>2026-06-09T20:36:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/06/BANNER-WEB-SOY-TEG-3-.avif</image:loc>
 		</image:image>
@@ -2087,13 +2087,13 @@
 			<image:loc>/wp-content/uploads/2025/06/Banner-celular-Soy-TEG.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Logo-GDO.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/IMG_0023-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
