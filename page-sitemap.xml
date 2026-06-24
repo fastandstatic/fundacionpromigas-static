@@ -328,10 +328,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/comunidades-productivas/</loc>
-		<lastmod>2022-09-21T16:01:39+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/quienes-somos/</loc>
 		<lastmod>2022-10-05T14:03:17+00:00</lastmod>
 	</url>
@@ -1723,31 +1719,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/mas-empleo-juvenil/</loc>
-		<lastmod>2025-09-16T22:31:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/OCDE-5-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Logo-Mas-Empleo-Juvenil-819x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Escuela-de-servicios-Flat-1024x279.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-08-a-las-9.59.26-a.m-1024x680.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Cocina-para-Todos-Flat-1024x285.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-08-a-las-9.58.26-a.m-763x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/09/Mujeres-Pa_-lante-1024x375.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/rutarosa/</loc>
 		<lastmod>2025-09-29T21:20:46+00:00</lastmod>
 		<image:image>
@@ -1767,25 +1738,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/09/Marca-Sodis-Color.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/mas-emprendimiento-2/</loc>
-		<lastmod>2025-10-06T21:21:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/09/Enmascarar_grupo_92_1_copia.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2014,28 +1966,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/quienessomos/</loc>
-		<lastmod>2026-04-17T13:39:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/estados-financieros/</loc>
 		<lastmod>2026-04-17T13:46:39+00:00</lastmod>
 	</url>
@@ -2099,6 +2029,94 @@
 	<url>
 		<loc>/solicitudes-rte/</loc>
 		<lastmod>2026-06-18T15:52:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/quienessomos/</loc>
+		<lastmod>2026-06-24T16:03:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-empleo-juvenil/</loc>
+		<lastmod>2026-06-24T16:18:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/OCDE-5-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Logo-Mas-Empleo-Juvenil-819x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Escuela-de-servicios-Flat-1024x279.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-08-a-las-9.59.26-a.m-1024x680.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Cocina-para-Todos-Flat-1024x285.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-08-a-las-9.58.26-a.m-763x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/09/Mujeres-Pa_-lante-1024x375.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-emprendimiento-2/</loc>
+		<lastmod>2026-06-24T16:37:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/09/Enmascarar_grupo_92_1_copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-05.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/comunidades-productivas/</loc>
+		<lastmod>2026-06-24T19:21:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/09/Enmascarar-grupo-92-min.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/09/Enmascarar_grupo_92_copia.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-04.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-04.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-02.png</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
