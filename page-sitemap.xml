@@ -372,13 +372,6 @@
 		<lastmod>2023-11-02T14:20:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/donde-estamos/</loc>
-		<lastmod>2023-12-18T17:05:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-6.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/noticias/</loc>
 		<lastmod>2024-01-09T15:07:04+00:00</lastmod>
 		<image:image>
@@ -2116,6 +2109,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/07/IconosProgramas-02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/donde-estamos-2/</loc>
+		<lastmod>2026-07-23T22:17:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-6.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
