@@ -1963,25 +1963,6 @@
 		<lastmod>2026-04-17T13:46:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/emprende-territorio/</loc>
-		<lastmod>2026-06-02T14:44:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/Banner-web-principal-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/Banner-web-600-x-450-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/Tinta-Plana-transparencia-1-1024x819.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/LogoSurtigasFP-17.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/convocatoria-soy-teg-old/</loc>
 		<lastmod>2026-06-03T21:55:24+00:00</lastmod>
 		<image:image>
@@ -2116,6 +2097,25 @@
 		<lastmod>2026-07-23T22:17:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-6.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/emprende-territorio/</loc>
+		<lastmod>2026-07-31T21:59:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/06/Banner-web-principal-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/06/Banner-web-600-x-450-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/12/Tinta-Plana-transparencia-1-1024x819.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/LogoSurtigasFP-17.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/06/Logo-Fundacion-Promigas-formato-png-2-1024x360.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
