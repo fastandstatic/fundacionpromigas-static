@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-22T17:08:08+00:00</lastmod>
+		<lastmod>2026-08-21T10:30:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fundacionpromigas-offloadmedia.s3.amazonaws.com/wp-content/uploads/2021/10/07115520/cropped-favicon.jpg</image:loc>
 		</image:image>
@@ -1979,28 +1979,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/quienessomos/</loc>
-		<lastmod>2026-06-24T16:03:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/mas-empleo-juvenil/</loc>
 		<lastmod>2026-06-30T21:13:46+00:00</lastmod>
 		<image:image>
@@ -2071,13 +2049,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/donde-estamos-2/</loc>
-		<lastmod>2026-07-23T22:17:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-6.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/emprende-territorio/</loc>
 		<lastmod>2026-07-31T21:59:55+00:00</lastmod>
 		<image:image>
@@ -2138,8 +2109,37 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/quienessomos/</loc>
+		<lastmod>2026-08-21T10:32:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/donde-estamos-2/</loc>
+		<lastmod>2026-08-27T04:07:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-6.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/convocatoria-alas-comunidades-antioquia-y-santander/</loc>
-		<lastmod>2026-08-18T18:58:20+00:00</lastmod>
+		<lastmod>2026-08-28T02:03:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/Banner-web-Alas-comunidades-Antioquia-y-Santander.png</image:loc>
 		</image:image>
