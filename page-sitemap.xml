@@ -2157,16 +2157,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/a-viva-voz-cauca-2026/</loc>
-		<lastmod>2026-09-22T22:03:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/atlatico-o-key/</loc>
 		<lastmod>2026-10-05T15:50:47+00:00</lastmod>
 		<image:image>
@@ -2213,6 +2203,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/10/Voces-octubre.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-viva-voz-cauca-2026/</loc>
+		<lastmod>2026-10-21T18:19:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
