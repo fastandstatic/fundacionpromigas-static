@@ -2196,16 +2196,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/mas-emprendimiento-voces-de-poder/</loc>
-		<lastmod>2026-10-15T16:34:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/10/Voces-octubre.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/10/Voces-octubre.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/convocatoria-escuela-de-servicios-cartagena/</loc>
 		<lastmod>2026-10-16T04:43:16+00:00</lastmod>
 		<image:image>
@@ -2213,6 +2203,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/10/Banner-escuela-servicios-hoteleros-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mas-emprendimiento-voces-de-poder/</loc>
+		<lastmod>2026-10-21T15:33:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/10/Voces-octubre.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/10/Voces-octubre.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
