@@ -2139,8 +2139,30 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/quienessomos/</loc>
+		<lastmod>2026-10-28T23:57:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/impe/</loc>
-		<lastmod>2026-10-28T23:30:00+00:00</lastmod>
+		<lastmod>2026-10-29T20:58:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
 		</image:image>
@@ -2191,28 +2213,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/quienessomos/</loc>
-		<lastmod>2026-10-28T23:57:18+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/01/Dr.-Rojas-FP-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Path-551.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/fotoMarcela@2x.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/12/Group-399.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/DSC_8502.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Artboard-%E2%80%93-1-1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
