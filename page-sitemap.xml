@@ -2141,8 +2141,32 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/convocatoria-escuela-de-servicios-cartagena/</loc>
+		<lastmod>2026-10-30T20:18:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-viva-voz-cauca-2026/</loc>
+		<lastmod>2026-11-03T21:23:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/impe-informe-interactivo/</loc>
+		<lastmod>2026-11-04T15:31:08+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/impe/</loc>
-		<lastmod>2026-10-29T20:58:19+00:00</lastmod>
+		<lastmod>2026-11-04T19:06:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/Logo-IMPE-blanco.svg</image:loc>
 		</image:image>
@@ -2193,26 +2217,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/convocatoria-escuela-de-servicios-cartagena/</loc>
-		<lastmod>2026-10-30T20:18:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/a-viva-voz-cauca-2026/</loc>
-		<lastmod>2026-11-03T21:23:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/09/Banner-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
