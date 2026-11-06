@@ -2141,16 +2141,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/convocatoria-escuela-de-servicios-cartagena/</loc>
-		<lastmod>2026-10-30T20:18:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/a-viva-voz-cauca-2026/</loc>
 		<lastmod>2026-11-03T21:23:10+00:00</lastmod>
 		<image:image>
@@ -2217,6 +2207,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Fundacion-Promigas.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/convocatoria-escuela-de-servicios-cartagena/</loc>
+		<lastmod>2026-11-06T19:24:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/10/Copia-de-Banner-escuela-servicios-hoteleros-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
